@@ -1,0 +1,5 @@
+odpowiedz = input('Wpisz 4 liczby ')
+lista = list(odpowiedz)
+list.sort(lista)
+list.reverse(lista)
+print(lista)
